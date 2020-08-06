@@ -1,0 +1,66 @@
+{
+	"details":{
+		"image":"JSONImages/giet.png",
+		"name":"SAI SRI HARSHA. K",
+		"qualification":"B. Tech",
+		"email":"harsha98@gmail.com",
+		"phone":"8989898978",
+		"link1":"https://www.google.com",
+		"link2":"https://www.facebook.com",
+		"link3":"https://github.com"
+	},
+	"obj":{
+		"career":"To be able to work in a highly organized environment and contribute my expertise and knowledge in electrical processes and applications such as designing, testing, troubleshooting, and modifying electrical equipments.",
+		"declaration":"I hereby declare that the above cited information true to the best of my knowledge and belief, if given a chance, I can prove myself."
+
+	},
+
+	"heading":[
+		{
+			"name1":"S.No",
+			"name2":"Specialisation",
+			"name3":"Institute",
+			"name4":"YOP",
+			"name5":"Per"
+
+		}],
+
+	"educationalqualifications":[
+		
+		{
+			"sno":"1.",
+			"specialisation":"B.tech",
+			"institute":"GIET(A)",
+			"pass":"2020",
+			"percentage":"8.0"		},
+		{
+			"sno":"2.",
+			"specialisation":"Intermediate",
+			"institute":"NRI Junior college",
+			"pass":"2016",
+			"percentage":"97"
+		},
+		{
+			"sno":"3.",
+			"specialisation":"SSC",
+			"institute":"BHASHYAM Highschool",
+			"pass":"2014",
+			"percentage":"9.8"
+		}
+	],
+
+	"achievements":[
+		"Awarded participation certificate “IOT” workshop held at JNTU Kakinada.",
+		"Awarded Inplant training certificate in “Basic Telecom“ at Regional Telecom Training center, BSNL.",
+		"Certified from SIEMENS for Foundation Electronics Course.",
+		"Attended Inspire national science camp."
+	],
+
+	"technicalskills":["Java","SQL","C","Python","HTML"],
+
+	"areaointerest":["web designing","Testing"],
+
+	"hobbies":[ "Reading","Exercise"],
+
+	"Languages":["Telugu","Hindi","English"]
+}
