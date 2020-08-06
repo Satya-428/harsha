@@ -1,0 +1,11 @@
+.container{
+	margin-top: 5%;
+}
+
+body{
+	background-image: url(images/b2.jpg);
+	background-size: cover;
+	background-position: center; 
+}
+
+
